@@ -4,7 +4,7 @@
     <groupId>com.bambora</groupId>
     <artifactId>apac-payments-for-checkout-java-sdk</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <name>APAC Payments For Checkout Java SDK</name>
     <description>The Java SDK for APAC Payments</description>
